@@ -1,5 +1,3 @@
-#Share-File
-
 Share-File is a file-sharing application designed to simplify the process of uploading, managing, and sharing files across different platforms. This project provides an intuitive interface and robust functionality for seamless file handling, making it ideal for personal or collaborative use.
 
 Key Features:
